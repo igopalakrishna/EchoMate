@@ -1,0 +1,7 @@
+gradio
+openai
+whisper
+pydub
+ffmpeg-python
+python-dotenv
+torch
