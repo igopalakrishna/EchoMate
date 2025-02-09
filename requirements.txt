@@ -1,6 +1,6 @@
 gradio
 openai
-whisper
+openai-whisper
 pydub
 ffmpeg-python
 python-dotenv
